@@ -21,10 +21,18 @@ Keep track of the world's history across sessions. Update this section as major 
 * **The Fall of the Old Angels**: The 4 primordial entities (*DAB*, *ABC*, *CDA*, *BCD*) were banished to usher in the mortal era.
 * **The First Immortal**: **Adda** the Elf, blessed with immortality and divine strength in the jungle realm.
 * **The Four Founding Civilizations**:
-  1. 🏰 **Kingdom of Rummo (Humans)**: Founded in the Maple Forest `(100, 120)` by King *Darisder* and Leader *Blalme* in the capital *Cademor*.
-  2. 🪓 **Kingdom of Gok Dep (Orcs)**: Established across the fertile Savanna `(140, 180)` by King *Era* and Leader *Righe Rid* in the capital *Rid Ord*.
-  3. ⛏️ **Kingdom of Odaguhm Mountain (Dwarves)**: Carved into the Crystal Lands `(40, 70)` by King *Theigrik* and Leader *Hrinthfr* in the capital *Dig Ohahl*.
-  4. 🌿 **The Sylvan Elves**: Settled in the ancient Rainforest `(60, 80)` under the stewardship of *Netad*, *Hillih*, and *Caadi*.
+  1. 🏰 **Kingdom of Rummo / Frunkalia (Humans)**: Founded in the Maple Forest `(100, 120)` by King *Nulfa/Darisder*. Subjugated in Year 73 by the Orc Horde.
+  2. 🪓 **Kingdom of Ta Dat & To Nor (Orcs)**: Rose explosively across the Savanna under King *Oghez*, conquering mankind before fracturing into a civil schism between *Ta Dat* and *To Nor*.
+  3. ⛏️ **Kingdom of Dum Or (Dwarves)**: Carved into the Crystal Lands `(40, 70)` under King *Feskor* and defended by Champion *Thor Osuhm* at the fortress of *Rabdum*.
+  4. 🌿 **The Wandering Sylvan Elves**: Sacred descendants of *Adda*, dwelling as nomads and forest mystics under divine protection.
+* **Epoch II: The Age of Tears & The War of the First Hearth (Year 73)**:
+  - The Orcs conquered the Human lands of *Portfortima* and *Kastei*.
+  - Separatist Orcs of *To Nor* (King *Para*) declared the First War against the Dwarves of *Dum Or*, testing the adamantine walls of *Rabdum*.
+* **Epoch III: The Human Resurgence & The Fall of Rabdum (Years 76 - 127)**:
+  - In Year 91, the dwarven bastion of *Dum Or* fell. The fortress of *Rabdum* was annexed by *Ta Dat*.
+  - **The Last Dwarf**: Only *Agha* (Age 73) survives as a relic of dwarven civilization among the ruins.
+  - **The Silent Human Renaissance**: Under orc occupation, humans multiplied from 6 individuals to over 72 citizens. Former infants *Genaldald* (now 54) and *Sigelm* (now 57) became the wise patriarchs of *Portfortima*.
+  - **The Orc Duopoly**: The world entered a pax orca between *Ta Dat* (King *Urga*, 833 pop) and *To Nor* (King *Para*, 273 pop), with zero active wars and a total population of 1,122 mortals.
 
 ---
 

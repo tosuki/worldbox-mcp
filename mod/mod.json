@@ -1,0 +1,6 @@
+{
+  "name": "WorldboxMCP",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) tool and bridge for AI agents to observe and interact with WorldBox."
+}

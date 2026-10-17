@@ -21,7 +21,7 @@ fi
 
 # Ensure MCP TypeScript server is built
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_ROOT="$(cd "${SCRIPT_DIR}/../../.." && pwd)"
+PROJECT_ROOT="$(cd "${SCRIPT_DIR}/../../../.." && pwd)"
 
 if [ ! -f "${PROJECT_ROOT}/server/dist/index.js" ]; then
   echo "📦 [WorldBox MCP] Building TypeScript MCP server..."
